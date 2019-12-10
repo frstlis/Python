@@ -36,16 +36,16 @@
 
 
 
-1. Python 环境
+3. Python 环境
 
 
 
 
 
-1.  Python 基础入门
+4.  Python 基础入门
 
 
 
 
 
-1.  Python 模板库
+5.  Python 模板库
