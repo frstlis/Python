@@ -1,7 +1,17 @@
-# Python #
+# Python
+-----
 
-----------
+Python 版本
+-----
 
+Python 安装使用
+-----
 
-- [Python 历史](https://github.com/frstlis/Python3/blob/master/PythonHistory.md) 
+Python 模块及安装
+-----
 
+Python 语法
+-----
+
+Python 项目
+-----
