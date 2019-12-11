@@ -7,33 +7,23 @@ Python 版本
 之所以选中Python（大蟒蛇的意思）作为该编程语言的名字，是取自英国20世纪70年代首播的电视喜剧
 《蒙提.派森的飞行马戏团》（Monty Python's Flying Circus）。
 
-
 Python 1.0 - January 1994 增加了 lambda, map, filter and reduce.
-
 
 Python 2.0 - October 16, 2000，加入了内存回收机制，构成了现在Python语言框架的基础
 
-
 Granddaddy of Python web frameworks, Zope 1 was released in 1999
-
 
 Python 2.4 - November 30, 2004, 同年目前最流行的WEB框架Django 诞生
 
-
 Python 2.5 - September 19, 2006
-
 
 Python 2.6 - October 1, 2008
 
-
 Python 2.7 - July 3, 2010
-
 
 Python 3.0 - December 3, 2008
 
-
 Python 3.1 - June 27, 2009
-
 
 Python 3.2 - February 20, 2011
 
