@@ -4,6 +4,8 @@
 
 ## Github.com Operation
 
+> Git tools is very important.
+
     git config --global user.name "Your name"	
 	git config --global user.email "Your email"
 
