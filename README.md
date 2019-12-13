@@ -6,6 +6,7 @@
 
 > Git tools is very important for Github, so introduce the command here first.
 
+
     git config --global user.name "Your name"	
     git config --global user.email "Your email"
     ssh-keygen -t rsa -C "Your email"	
@@ -36,10 +37,14 @@
     index-url = https://pypi.tuna.tsinghua.edu.cn/simple
     [install]
     trusted-host = https://pypi.tuna.tsinghua.edu.cn" >> c:\users\username\pip\pip.ini
+
 > Making your Python file like *yourfilename.py* in IDE you like. Then implement it.
+
 > > IDE
 > > *Sublime,Notepad++,Markdownpad2,Geany,Vim,Emacs,Jetbrain*,everyone of them can.
+
 > > Implement
+
 > >     ```python yourfilename.py```
 > >     
 
