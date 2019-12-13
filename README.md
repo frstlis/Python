@@ -2,10 +2,11 @@
 # Python3
 -----
 
-## github.com
+## github.com Operation
 
     git config --global user.name "Your name"	
 	git config --global user.email "Your email"
+
     ssh-keygen -t rsa -C "Your email"	
     eval
     ssh-agent -s
@@ -13,7 +14,7 @@
     &&
     eval $(ssh-agent -s)
     ssh-add /c/users/admin/.ssh/id_rsa_name
-    
+
     git clone https://github.com/Your name/reponsitions.git	
 	git add .
     git commit -m "commentary"
