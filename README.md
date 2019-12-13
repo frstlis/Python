@@ -7,32 +7,32 @@
 > Git tools is very important for Github, so introduce the command here first.
 
 
-> ```
->       git config --global user.name "Your name"	
+
+      git config --global user.name "Your name"	
 > 
->       git config --global user.email "Your email"
+      git config --global user.email "Your email"
 > 
->       ssh-keygen -t rsa -C "Your email"	
+      ssh-keygen -t rsa -C "Your email"	
 > 
->       eval
+      eval
 > 
->       ssh-agent -s
+      ssh-agent -s
 > 
->       ssh-add /c/users/admin/.ssh/id_rsa_name
+      ssh-add /c/users/admin/.ssh/id_rsa_name
 > 
->       &&
+      &&
 > 
->       eval $(ssh-agent -s)
+      eval $(ssh-agent -s)
 > 
->       ssh-add /c/users/admin/.ssh/id_rsa_name
+      ssh-add /c/users/admin/.ssh/id_rsa_name
 > 
->       git clone https://github.com/Your name/reponsitions.git
+      git clone https://github.com/Your name/reponsitions.git
 >       
->       git add .
+      git add .
 > 
->       git commit -m "commentary"
+      git commit -m "commentary"
 > 
->       git push
+      git push
 
 ## Python install and Operating
 > Download it from *[python.org](https://www.python.org/downloads/)* for Windows and install, it`s easy. In Linux so.
@@ -51,9 +51,11 @@
     trusted-host = https://pypi.tuna.tsinghua.edu.cn" >> c:\users\username\pip\pip.ini
 
 > Making your Python file like *yourfilename.py* in IDE you like. Then implement it.
-> > IDE
+> > IDE:
+> > 
 > > *Sublime,Notepad++,Markdownpad2,Geany,Vim,Emacs,Jetbrain*,everyone of them can.
-> > Implement
+> > 
+> > Implement statement:
 > > 
 > >     python yourfilename.py
 
