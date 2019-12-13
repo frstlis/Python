@@ -26,7 +26,7 @@
     python -m pip install --upgrade pip
     python -m pip install 'your package'
 
-> Please create and modify the Source file *pip.ini*.
+> Please create and modify the Source file *pip.ini*.Increase the download speed.
 >
     mkdir c:\users\username\pip
     touch c:\users\username\pip\pip.ini
@@ -44,6 +44,19 @@
 > > Implement statement:
 > > 
 > >     python yourfilename.py
+> > 
+> > For example: make a name *test.py* and modify the content in it.
+> > 
+> >     print("Hello,Python!!!")
+>   save and exit the *test.py* file.
+> > in the command line:
+> > 
+> >     #python test.py
+> 
+> > the output is:
+>   
+> >     Hello,Python!!!
+>       
 
 
 
