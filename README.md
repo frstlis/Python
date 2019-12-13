@@ -7,20 +7,32 @@
 > Git tools is very important for Github, so introduce the command here first.
 
 
-    git config --global user.name "Your name"	
-    git config --global user.email "Your email"
-    ssh-keygen -t rsa -C "Your email"	
-    eval
-    ssh-agent -s
-    ssh-add /c/users/admin/.ssh/id_rsa_name
-    &&
-    eval $(ssh-agent -s)
-    ssh-add /c/users/admin/.ssh/id_rsa_name
-    git clone https://github.com/Your name/reponsitions.git	
-    git add .
-    git commit -m "commentary"
-    git push
-    
+> ```
+>       git config --global user.name "Your name"	
+> 
+>       git config --global user.email "Your email"
+> 
+>       ssh-keygen -t rsa -C "Your email"	
+> 
+>       eval
+> 
+>       ssh-agent -s
+> 
+>       ssh-add /c/users/admin/.ssh/id_rsa_name
+> 
+>       &&
+> 
+>       eval $(ssh-agent -s)
+> 
+>       ssh-add /c/users/admin/.ssh/id_rsa_name
+> 
+>       git clone https://github.com/Your name/reponsitions.git
+>       
+>       git add .
+> 
+>       git commit -m "commentary"
+> 
+>       git push
 
 ## Python install and Operating
 > Download it from *[python.org](https://www.python.org/downloads/)* for Windows and install, it`s easy. In Linux so.
@@ -43,7 +55,8 @@
 > > *Sublime,Notepad++,Markdownpad2,Geany,Vim,Emacs,Jetbrain*,everyone of them can.
 > > Implement
 > > 
-> >     ```python yourfilename.py```
-> >     
+> >     python yourfilename.py
+
+
 
 
