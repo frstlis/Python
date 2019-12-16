@@ -47,12 +47,12 @@ Implement statement:
 ```
 For example: make a name *test.py* and modify the content in it.
 ```markdown 
-     print("Hello,Python!!!")
+    print("Hello,Python!!!")
 ```     
 save and exit the *test.py* file.
 in the command line:
 ```markdown
-     #python test.py
+    python test.py
 ```
  the output is:
 ```markdown  
