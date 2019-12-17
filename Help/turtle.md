@@ -67,9 +67,17 @@ rgb的色彩取值范围为0-255的整数或者0-1的小数
 
 1、`turtle.forword(d) 别名turtle.fd(d)`　　　向前行进        d：行进距离，可以为负数
 
-2、`turtle.circle(r,extent=None)`
+2、`turtle.circle(radius,[extent],[step])`
 
-根据半径r，绘制一个extent角度的弧度　　r：默认圆心在海龟左侧r距离的位置
+**radius** 是必需的，表示半径，正值时逆时针旋转；
+
+**extent** 表示度数，用于绘制圆弧；
+
+**step** 表示边数，可用于绘制正多边形；
+
+**extent** 和 **step** 参数可有可无。
+
+
 
 ### 方向控制函数
 
