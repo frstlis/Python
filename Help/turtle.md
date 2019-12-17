@@ -1,10 +1,17 @@
 # Python-turtle库（python绘图工具）
-_turtle_ ：海龟（海龟库） **turtle**库是Python语言中一个很流行的绘制图像的函数库,使用之前需要导入库：`import turtle`
+_turtle_ ：海龟（海龟库） 
+**turtle**库是Python语言中一个很流行的绘制图像的函数库,使用之前需要导入库：
+
+`import turtle`
 
 `turtle.setup(width,height,startx,starty)`
--setup() 设置窗体的位置和大小
+
+setup() 设置窗体的位置和大小
+
 相对于桌面的起始点的坐标以及窗口的宽度高度，若不写窗口的起始点，则默认在桌面的正中心,窗体的坐标原点默认在窗口的中心
+
 **绝对坐标**
+
 `turtle.goto(100,100)`:指从当前的点指向括号内所给坐标
 
 **海龟坐标**
