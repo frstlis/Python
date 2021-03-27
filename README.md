@@ -58,6 +58,14 @@ in the command line:
 ```markdown  
     Hello,Python!!!
 ```      
+```
+    Python's "prettytable" repository
+
+    `pip install prettytable`
+    `$ from prettytable import PrettyTable`
+    `myTable=PrettyTable(["","",""...])`
+    `myTable.add_row(["","",""...])`
+    `print(myTable)`
 
 
 
